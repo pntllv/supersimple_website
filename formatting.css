@@ -1,0 +1,22 @@
+body{
+    background-color: lightgray;
+}
+h1{
+    font-family: verdana, arial; 
+}
+hr{
+    font-family: "lucida console", "courier new";
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+    color: #290E09;
+}
+header{
+    color: #5C380B;
+}
+main{
+    color: #0B1A5C;
+}
+footer{
+    color:darkkhaki;
+}
